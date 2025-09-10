@@ -40,4 +40,4 @@ This project presents an **interactive sales analysis dashboard** designed to tr
 * **Data Source:** Amazon product sales dataset
 * **Metrics:** Sales (YTD & QTD), Product Sales, Reviews
 
-  SNAPSHOT OF DASHBOARD: 
+  SNAPSHOT OF DASHBOARD: https://github.com/shreyasrgshetty/AMAZON-Product-Sales-Analysis-in-Power-bi/blob/main/sales%20analysis%20amazon%20dashboard.png
